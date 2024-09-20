@@ -1,3 +1,18 @@
+This project is a Landing page for the car showroom dealership. It's fully responsive. Here is the live link to the page.
+
+
+https://carlanding123.netlify.app/
+
+
+
+
+
+
+
+
+
+Info. to be added in the landing page.
+
 MSRP
 $28,245
 
